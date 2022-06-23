@@ -1,2 +1,7 @@
-# App-Lanterna-DIO
-Aplicativo de lanterna feito no bootcamp da DIO o Decola Tech. App com React Native
+# App lanterna com sensores do movimento.
+
+### Aplicativo de lanterna feito na DIO no bootcamp Decola Tech. App com React Native.
+
+- React Native.
+- JavaScript.
+
